@@ -23,16 +23,20 @@ plugins:
 collections:
   design:
     output: true
-    permalink: /design/:name/
+    permalink: /design/
+    #permalink: /design/:name/
   construction:
     output: true
-    permalink: /construction/:name/
+    permalink: /construction/
+    #permalink: /construction/:name/
   materials:
     output: true
-    permalink: /materials/:name/
+    permalink: /materials/
+    #permalink: /materials/:name/
   inspection:
     output: true
-    permalink: /inspection/:name/
+    permalink: /inspection/
+    #permalink: /inspection/:name/
 
 # Defaults
 defaults:
