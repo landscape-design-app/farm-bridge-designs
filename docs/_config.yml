@@ -2,7 +2,7 @@
 title: "Farm Bridge Design"
 description: "Professional documentation for building concrete bridge abutments for light agricultural use"
 author: "Kevin J. Smith"
-baseurl: "" # Leave empty for GitHub Pages
+baseurl: "/docs" # Leave empty for GitHub Pages
 url: "" # Will be set by GitHub Pages
 
 # Theme
