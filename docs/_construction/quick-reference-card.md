@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Rebar Cage Quick Reference Card" 
+description: "Enterprise-grade construction manual for farm bridge abutment rebar cage fabrication and assembly"
+---
+
 # Rebar cage quick reference card
 
 ---

@@ -1,4 +1,10 @@
-# REBAR CAGE VISUALIZATION PACKAGE
+---
+layout: default
+title: "Rebar Cage Visualization Package"
+description: "Enterprise-grade construction manual for farm bridge abutment rebar cage fabrication and assembly"
+---
+
+# Rebar cage visualization package
 
 ## 📦 DELIVERABLES COMPLETE
 
