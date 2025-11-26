@@ -120,6 +120,7 @@ Depth: 6' minimum
 ### Week 2: Base Slab
 
 #### Day 5: Base Rebar Installation
+
 ```
 Task: Install complete base slab rebar grid
 Bars: R1 (2) + R2 (8) = 10 bars
@@ -128,6 +129,7 @@ Bars: R1 (2) + R2 (8) = 10 bars
 **Steps:**
 1. [see guide](./construction-booklet-part1.html)
 1. Set concrete chairs (3" height) on AB3
+1. [see rebar cage visualizations](./image-package-index.html)
 2. Install R1 bars (2 longitudinal, 9' long)
    - Run front-to-back along 2' depth
    - Space 30" apart

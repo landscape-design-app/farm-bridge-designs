@@ -103,6 +103,7 @@ This cage follows **conservative agricultural bridge standards**:
 ### Essential Tools
 
 #### Cutting & Bending
+
 | Tool | Specification | Approximate Cost |
 |------|--------------|------------------|
 | **Rebar Bender** | Manual, 3/8"-5/8" capacity | $150 |
@@ -111,6 +112,7 @@ This cage follows **conservative agricultural bridge standards**:
 | **Hacksaw** | 12" blade (backup method) | $20 |
 
 #### Measuring & Layout
+
 | Tool | Specification | Cost |
 |------|--------------|------|
 | **Tape Measure** | 100' fiberglass | $35 |
@@ -122,6 +124,7 @@ This cage follows **conservative agricultural bridge standards**:
 | **Spray Paint** | Marking paint (4 colors) | $20 |
 
 #### Assembly & Tying
+
 | Tool | Specification | Cost |
 |------|--------------|------|
 | **Wire Tier (Automatic)** | Battery powered | $40 |
@@ -130,6 +133,7 @@ This cage follows **conservative agricultural bridge standards**:
 | **Wire Cutters** | Diagonal 8" | $20 |
 
 #### Work Surface
+
 | Item | Specification | Cost |
 |------|--------------|------|
 | **Plywood Sheets** | 4'×8' × 3/4" (qty 4) | $120 |
@@ -465,6 +469,8 @@ Priority 3: Short bars
 ```
 
 #### Step 2.2: Complete Cutting Plan
+
+[see each rebar image for help](./image-package-index.html)
 
 **From 50 Bars (10' each) = 500 linear feet total**
 
