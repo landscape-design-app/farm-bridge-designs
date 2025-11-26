@@ -1,4 +1,4 @@
-# REBAR CAGE QUICK REFERENCE CARD
+# Rebar cage quick reference card
 
 ---
 

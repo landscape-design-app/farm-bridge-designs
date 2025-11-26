@@ -350,8 +350,8 @@ animate();
 # Ubuntu: sudo apt install pandoc
 
 # Convert specification to PDF
-pandoc REBAR_CAGE_COMPLETE_SPECIFICATION.md \
-  -o REBAR_CAGE_COMPLETE_SPECIFICATION.pdf \
+pandoc rebar_cage_complete_specification.md \
+  -o rebar_cage_complete_specification.pdf \
   --pdf-engine=xelatex \
   --toc \
   --toc-depth=3 \
@@ -368,8 +368,8 @@ pandoc construction-booklet-part1.md \
   -V fontsize=10pt
 
 # Convert quick reference
-pandoc QUICK_REFERENCE_CARD.md \
-  -o QUICK_REFERENCE_CARD.pdf \
+pandoc quick-reference-card.md \
+  -o quick-reference-card.pdf \
   --pdf-engine=xelatex \
   -V geometry:margin=0.5in \
   -V fontsize=12pt \

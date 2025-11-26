@@ -4,7 +4,9 @@ title: "Rebar Cage Construction Booklet - Complete Guide"
 description: "Enterprise-grade construction manual for farm bridge abutment rebar cage fabrication and assembly"
 ---
 
-# COMPLETE REBAR CAGE CONSTRUCTION BOOKLET
+# Complete rebar cage construction booklet
+
+
 ## Professional Assembly Manual for South Abutment
 
 **Project:** Farm Bridge South Abutment  
@@ -450,6 +452,7 @@ IN CASE OF INJURY:
 5. ✅ Organization - Clear transition to bending phase
 
 **Cutting Order (from longest to shortest):**
+[see images](image-package-index.md)
 ```
 Priority 1: Long bars (minimize waste)
   R1: 9' × 8 = 72 ft from 8 bars
