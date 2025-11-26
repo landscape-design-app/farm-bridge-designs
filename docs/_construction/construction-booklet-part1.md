@@ -452,7 +452,7 @@ IN CASE OF INJURY:
 5. ✅ Organization - Clear transition to bending phase
 
 **Cutting Order (from longest to shortest):**
-[see images](image-package-index.md)
+[see images](./image-package-index.html)
 ```
 Priority 1: Long bars (minimize waste)
   R1: 9' × 8 = 72 ft from 8 bars
@@ -1103,4 +1103,4 @@ Checker: _______________ Date: ____
 **Design Standard:** ACI 318-19  
 **Status:** APPROVED FOR CONSTRUCTION
 
-**Next Section:** [Construction Booklet Part 2 - Assembly](construction-booklet-part2.md)
+**Next Section:** [Construction Booklet Part 2 - Assembly](./construction-booklet-part2.html)

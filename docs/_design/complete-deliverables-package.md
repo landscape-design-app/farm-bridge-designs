@@ -86,11 +86,11 @@ All showing detailed 3D geometry with dimensions:
 
 | File | Pages | Description |
 |------|-------|-------------|
-| `REBAR_CAGE_COMPLETE_SPECIFICATION.md` | 50+ | Complete technical spec with ACI 318-19 compliance |
+| `rebar-cage-complete-specification.md` | 50+ | Complete technical spec with ACI 318-19 compliance |
 | `construction-booklet-part1.md` | 35+ | Professional assembly manual - Phases 1-3 |
-| `PROJECT_SUMMARY_AND_NEXT_STEPS.md` | 15 | Project overview and timeline |
-| `QUICK_REFERENCE_CARD.md` | 4 | One-page job site reference |
-| `IMAGE_PACKAGE_INDEX.md` | 20 | Image catalog with Jekyll integration |
+| `project-summary-and-next-steps.md` | 15 | Project overview and timeline |
+| `quick-reference-card.md` | 4 | One-page job site reference |
+| `image-package-index.md` | 20 | Image catalog with Jekyll integration |
 
 **Construction Booklet Features:**
 - ✅ IKEA-style step-by-step instructions
@@ -350,8 +350,8 @@ animate();
 # Ubuntu: sudo apt install pandoc
 
 # Convert specification to PDF
-pandoc rebar_cage_complete_specification.md \
-  -o rebar_cage_complete_specification.pdf \
+pandoc rebar-cage-complete-specification.md \
+  -o rebar-cage-complete-specification.pdf \
   --pdf-engine=xelatex \
   --toc \
   --toc-depth=3 \

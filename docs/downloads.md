@@ -14,7 +14,7 @@ Download complete documentation and design files for your bridge abutment projec
 ## 📄 Documentation
 
 ### Complete Design Package
-- **[Final Rebar Design (Markdown)](/assets/downloads/complete-design-package.md)**
+- **[Final Rebar Design (Markdown)](/assets/downloads/complete-design-package.html)**
   - Complete specifications
   - Cutting & bending instructions
   - Construction sequence

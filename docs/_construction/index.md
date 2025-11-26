@@ -5,7 +5,7 @@ title: Construction Guide
 
 # Construction Guide
 
-[Quick Reference Card](./quick-reference-card.md) - print out for job site
+[Quick Reference Card](./quick-reference-card.html) - print out for job site
 
 
 ## 4-Week Build Schedule
@@ -126,7 +126,7 @@ Bars: R1 (2) + R2 (8) = 10 bars
 ```
 
 **Steps:**
-1. [see guide](./construction-booklet-part1.md)
+1. [see guide](./construction-booklet-part1.html)
 1. Set concrete chairs (3" height) on AB3
 2. Install R1 bars (2 longitudinal, 9' long)
    - Run front-to-back along 2' depth
@@ -138,7 +138,7 @@ Bars: R1 (2) + R2 (8) = 10 bars
 5. Verify 3" cover on all sides
 
 **Quality Check:**
-- ✓ [see guide](./construction-booklet-part1.md)
+- ✓ [see guide](./construction-booklet-part1.html)
 - ✓ All bars Grade 60 #4
 - ✓ Spacing correct (12" o.c.)
 - ✓ 3" cover all sides
@@ -151,7 +151,7 @@ Quantity: 2 plates (12" × 12" × 1/2")
 ```
 
 **Steps:**
-1. [see guide](./construction-booklet-part1.md)
+1. [see guide](./construction-booklet-part1.html)
 1. Position plates on elevated chairs
    - Plate 1: 30" from left edge
    - Plate 2: 66" from left edge
