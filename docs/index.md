@@ -18,7 +18,7 @@ title: Home
 
 **Ready for Construction Phase**
 
-![FarmBridge](/assets/images/FarmBridge.png)
+![Farm Bridge]({{ site.baseurl }}//assets/images/FarmBridge.png)
 
 ---
 
