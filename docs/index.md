@@ -18,6 +18,8 @@ title: Home
 
 **Ready for Construction Phase**
 
+![FarmBridge](./assets/images/FarmBridge.png)
+
 ---
 
 ## 📐 Project Specifications
